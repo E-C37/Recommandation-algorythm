@@ -1,7 +1,7 @@
 # Recommandation algorithm
-The scope: being part of the Netfilx data science team
-The goal: To create personalized recommendations for movies to users in R language and present it with a Shiny App.
-The data-bases: a list of movies with its title and genre, a list of rated movies by a specific user
+The scope: being part of the Netfilx data science team \n
+The goal: To create personalized recommendations for movies to users in R language and present it with a Shiny App. \n
+The data-bases: a list of movies with its title and genre, a list of rated movies by a specific user \n
   
 You can find different script according to the method/algorithm used:
 
